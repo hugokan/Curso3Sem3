@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Form</string>
+    <string name="nombre">Hugo Quintero</string>
+    <string name="telefono">989777000</string>
+    <string name="email">hugo@hugo.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pfoto">foto</string>
+</resources>
